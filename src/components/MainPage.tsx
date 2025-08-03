@@ -484,7 +484,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 hover:scale-105">
                   <div className="flex items-center gap-4">
                     <img 
-                      src="https://www.mediafire.com/convkey/gfbs/gfbsdvor275i0lnzg.jpg" 
+                      src="https://www.mediafire.com/convkey/gfbs/gfbsdvor275i0lnzg.jpg"
                       alt="احمد طارق عبدالهادي علي الدين"
                       className="w-16 h-16 rounded-full object-cover border-2 border-purple-300 shadow-lg"
                     />
